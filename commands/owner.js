@@ -1,3 +1,4 @@
+
 const settings = require('../settings');
 
 async function ownerCommand(sock, chatId) {
