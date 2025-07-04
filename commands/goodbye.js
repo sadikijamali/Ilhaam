@@ -1,3 +1,4 @@
+
 const { handleGoodbye } = require('../lib/welcome');
 
 async function goodbyeCommand(sock, chatId, message, match) {
