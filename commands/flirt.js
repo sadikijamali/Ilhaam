@@ -1,3 +1,4 @@
+
 const fetch = require('node-fetch');
 
 async function flirtCommand(sock, chatId, message) {
