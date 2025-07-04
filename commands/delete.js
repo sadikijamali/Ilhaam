@@ -1,3 +1,4 @@
+
 const isAdmin = require('../lib/isAdmin');
 
 async function deleteCommand(sock, chatId, message, senderId) {
