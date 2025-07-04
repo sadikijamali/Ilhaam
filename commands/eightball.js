@@ -1,3 +1,4 @@
+
 const eightBallResponses = [
     "Yes, definitely!",
     "No way!",
