@@ -1,3 +1,4 @@
+
 const fetch = require('node-fetch');
 const { writeExifImg } = require('../lib/exif');
 const delay = time => new Promise(res => setTimeout(res, time));
