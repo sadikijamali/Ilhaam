@@ -1,3 +1,4 @@
+
 const fetch = require('node-fetch');
 
 async function stupidCommand(sock, chatId, quotedMsg, mentionedJid, sender, args) {
