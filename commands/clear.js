@@ -1,3 +1,4 @@
+
 async function clearCommand(sock, chatId) {
     try {
         const message = await sock.sendMessage(chatId, { text: 'Clearing bot messages...' });
