@@ -1,3 +1,4 @@
+
 const axios = require('axios');
 const settings = require('../settings'); // Assuming the API key is stored here
 
