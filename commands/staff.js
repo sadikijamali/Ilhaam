@@ -1,3 +1,4 @@
+
 async function staffCommand(sock, chatId, msg) {
     try {
         // Get group metadata
