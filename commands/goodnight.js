@@ -1,3 +1,4 @@
+
 const fetch = require('node-fetch');
 
 async function goodnightCommand(sock, chatId, message) {
