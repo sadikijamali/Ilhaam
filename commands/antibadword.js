@@ -1,3 +1,4 @@
+
 const { handleAntiBadwordCommand } = require('../lib/antibadword');
 const isAdminHelper = require('../lib/isAdmin');
 
