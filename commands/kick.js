@@ -1,3 +1,4 @@
+
 const isAdmin = require('../lib/isAdmin');
 
 async function kickCommand(sock, chatId, senderId, mentionedJids, message) {
