@@ -14,7 +14,7 @@ async function helpCommand(sock, chatId, message) {
 *ALL COMMANDERS:*
 
 ╔═══════════════════╗
-   GENERAL COMMANDEES*:
+   GENERAL COMMANDERS*:
 ║ ➤help or .menu
 ║ ➤ping
 ║ ➤alive
