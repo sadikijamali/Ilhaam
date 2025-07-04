@@ -9,7 +9,7 @@ async function helpCommand(sock, chatId, message) {
    Version: *${settings.version || '2.0.5'}*
    by ${settings.botOwner || 'PRINCETECH'}
    YT : ${global.ytch}
-╚═══════════════════╝
+
 
 *ALL COMMANDERS:*
 
@@ -34,7 +34,7 @@ async function helpCommand(sock, chatId, message) {
 ║ ➤trt <text> <lang>
 ║ ➤ss <link>
 ║ ➤jid
-╚═══════════════════╝ 
+
 
 ╔═══════════════════╗
  *ADMIN COMMANDERS*:
@@ -56,7 +56,7 @@ async function helpCommand(sock, chatId, message) {
 ║ ➤resetlink
 ║ ➤welcome <on/off>
 ║ ➤goodbye <on/off>
-╚═══════════════════╝
+
 
 ╔═══════════════════
    *OWNER COMMANDERS*
@@ -67,7 +67,7 @@ async function helpCommand(sock, chatId, message) {
 ║ ➤cleartmp
 ║ ➤setpp <reply to image>
 ║ ➤autoreact
-╚═══════════════════╝
+
 
 ╔═══════════════════╗
   *IMAGE/STICKER COMMANDEES*:
@@ -78,7 +78,7 @@ async function helpCommand(sock, chatId, message) {
 ║ ➤meme
 ║ ➤take <packname> 
 ║ ➤emojimix <emj1>+<emj2>
-╚═══════════════════╝  
+
 
 ╔═══════════════════╗
     *GAME COMMANDS*:
@@ -89,7 +89,7 @@ async function helpCommand(sock, chatId, message) {
 ║ ➤ .answer <answer>
 ║ ➤ .truth
 ║ ➤ .dare
-╚═══════════════════╝
+
 
 ╔═══════════════════╗
    *AI COMANDS*:
@@ -97,7 +97,7 @@ async function helpCommand(sock, chatId, message) {
 ║ ➤ .gemini <question>
 ║ ➤ .imagine <prompt>
 ║ ➤ .flux <prompt>
-╚═══════════════════╝
+
 
 ╔═══════════════════╗
   *FUN COMMANDS*:
@@ -112,7 +112,7 @@ async function helpCommand(sock, chatId, message) {
 ║ ➤ship @user
 ║ ➤simp @user
 ║ ➤stupid @user [text]
-╚═══════════════════╝
+
 
 ╔═══════════════════╗
    *TEXT MAKER*:
@@ -134,7 +134,7 @@ async function helpCommand(sock, chatId, message) {
 ║ ➤blackpink <text>
 ║ ➤glitch <text>
 ║ ➤fire <text>
-╚═══════════════════╝
+
 
 ╔═══════════════════╗
    *DOWNLODERS*:
@@ -145,7 +145,7 @@ async function helpCommand(sock, chatId, message) {
 ║ ➤tiktok <link>
 ║ ➤video <song name>
 ║ ➤ytmp4 <Link>
-╚═══════════════════╝
+
 
 ╔═══════════════════╗
   *GITHUB COMMANDERS:*
@@ -154,7 +154,7 @@ async function helpCommand(sock, chatId, message) {
 ║ ➤sc
 ║ ➤script
 ║ ➤repo
-╚═══════════════════╝
+
 
 Join our channel for updates:`;
 
