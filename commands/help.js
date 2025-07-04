@@ -5,83 +5,83 @@ const path = require('path');
 async function helpCommand(sock, chatId, message) {
     const helpMessage = `
 ╔═══════════════════╗
-   *🤖 ${settings.botName || 'KnightBot-MD'}*  
+   *🤖 ${settings.botName || 'BWB-XMD'}*  
    Version: *${settings.version || '2.0.5'}*
-   by ${settings.botOwner || 'Mr Unique Hacker'}
+   by ${settings.botOwner || 'PRINCETECH'}
    YT : ${global.ytch}
 ╚═══════════════════╝
 
-*Available Commands:*
+*ALL COMMANDERS:*
 
 ╔═══════════════════╗
-🌐 *General Commands*:
-║ ➤ .help or .menu
-║ ➤ .ping
-║ ➤ .alive
-║ ➤ .tts <text>
-║ ➤ .owner
-║ ➤ .joke
-║ ➤ .quote
-║ ➤ .fact
-║ ➤ .weather <city>
-║ ➤ .news
-║ ➤ .attp <text>
-║ ➤ .lyrics <song_title>
-║ ➤ .8ball <question>
-║ ➤ .groupinfo
-║ ➤ .staff or .admins 
-║ ➤ .vv
-║ ➤ .trt <text> <lang>
-║ ➤ .ss <link>
-║ ➤ .jid
+   GENERAL COMMANDEES*:
+║ ➤help or .menu
+║ ➤ping
+║ ➤alive
+║ ➤tts <text>
+║ ➤owner
+║ ➤joke
+║ ➤quote
+║ ➤fact
+║ ➤weather <city>
+║ ➤news
+║ ➤attp <text>
+║ ➤lyrics <song_title>
+║ ➤8ball <question>
+║ ➤groupinfo
+║ ➤staff or .admins 
+║ ➤vv
+║ ➤trt <text> <lang>
+║ ➤ss <link>
+║ ➤jid
 ╚═══════════════════╝ 
 
 ╔═══════════════════╗
-👮‍♂️ *Admin Commands*:
-║ ➤ .ban @user
-║ ➤ .promote @user
-║ ➤ .demote @user
-║ ➤ .mute <minutes>
-║ ➤ .unmute
-║ ➤ .delete or .del
-║ ➤ .kick @user
-║ ➤ .warnings @user
-║ ➤ .warn @user
-║ ➤ .antilink
-║ ➤ .antibadword
-║ ➤ .clear
-║ ➤ .tag <message>
-║ ➤ .tagall
-║ ➤ .chatbot
-║ ➤ .resetlink
-║ ➤ .welcome <on/off>
-║ ➤ .goodbye <on/off>
+ *ADMIN COMMANDERS*:
+║ ➤ban @user
+║ ➤promote @user
+║ ➤demote @user
+║ ➤mute <minutes>
+║ ➤unmute
+║ ➤delete or .del
+║ ➤kick @user
+║ ➤warnings @user
+║ ➤warn @user
+║ ➤antilink
+║ ➤antibadword
+║ ➤clear
+║ ➤tag <message>
+║ ➤tagall
+║ ➤chatbot
+║ ➤resetlink
+║ ➤welcome <on/off>
+║ ➤goodbye <on/off>
+╚═══════════════════╝
+
+╔═══════════════════
+   *OWNER COMMANDERS*
+║ ➤mode
+║ ➤autostatus
+║ ➤clearsession
+║ ➤antidelete
+║ ➤cleartmp
+║ ➤setpp <reply to image>
+║ ➤autoreact
 ╚═══════════════════╝
 
 ╔═══════════════════╗
-🔒 *Owner Commands*:
-║ ➤ .mode
-║ ➤ .autostatus
-║ ➤ .clearsession
-║ ➤ .antidelete
-║ ➤ .cleartmp
-║ ➤ .setpp <reply to image>
-║ ➤ .autoreact
-╚═══════════════════╝
-
-╔═══════════════════╗
-🎨 *Image/Sticker Commands*:
-║ ➤ .blur <image>
-║ ➤ .simage <reply to sticker>
-║ ➤ .sticker <reply to image>
-║ ➤ .tgsticker <Link>
-║ ➤ .meme
-║ ➤ .take <packname> 
-║ ➤ .emojimix <emj1>+<emj2>
+  *IMAGE/STICKER COMMANDEES*:
+║ ➤blur <image>
+║ ➤simage <reply to sticker>
+║ ➤sticker <reply to image>
+║ ➤tgsticker <Link>
+║ ➤meme
+║ ➤take <packname> 
+║ ➤emojimix <emj1>+<emj2>
 ╚═══════════════════╝  
 
 ╔═══════════════════╗
-🎮 *Game Commands*:
+    *GAME COMMANDS*:
 ║ ➤ .tictactoe @user
 ║ ➤ .hangman
 ║ ➤ .guess <letter>
@@ -92,7 +92,7 @@ async function helpCommand(sock, chatId, message) {
 ╚═══════════════════╝
 
 ╔═══════════════════╗
-🤖 *AI Commands*:
+   *AI COMANDS*:
 ║ ➤ .gpt <question>
 ║ ➤ .gemini <question>
 ║ ➤ .imagine <prompt>
@@ -100,60 +100,60 @@ async function helpCommand(sock, chatId, message) {
 ╚═══════════════════╝
 
 ╔═══════════════════╗
-🎯 *Fun Commands*:
-║ ➤ .compliment @user
-║ ➤ .insult @user
-║ ➤ .flirt 
-║ ➤ .shayari
-║ ➤ .goodnight
-║ ➤ .roseday
-║ ➤ .character @user
-║ ➤ .wasted @user
-║ ➤ .ship @user
-║ ➤ .simp @user
-║ ➤ .stupid @user [text]
+  *FUN COMMANDS*:
+║ ➤compliment @user
+║ ➤insult @user
+║ ➤flirt 
+║ ➤shayari
+║ ➤goodnight
+║ ➤roseday
+║ ➤character @user
+║ ➤wasted @user
+║ ➤ship @user
+║ ➤simp @user
+║ ➤stupid @user [text]
 ╚═══════════════════╝
 
 ╔═══════════════════╗
-🔤 *Textmaker*:
-║ ➤ .metallic <text>
-║ ➤ .ice <text>
-║ ➤ .snow <text>
-║ ➤ .impressive <text>
-║ ➤ .matrix <text>
-║ ➤ .light <text>
-║ ➤ .neon <text>
-║ ➤ .devil <text>
-║ ➤ .purple <text>
-║ ➤ .thunder <text>
-║ ➤ .leaves <text>
-║ ➤ .1917 <text>
-║ ➤ .arena <text>
-║ ➤ .hacker <text>
-║ ➤ .sand <text>
-║ ➤ .blackpink <text>
-║ ➤ .glitch <text>
-║ ➤ .fire <text>
+   *TEXT MAKER*:
+║ ➤metallic <text>
+║ ➤ice <text>
+║ ➤snow <text>
+║ ➤impressive <text>
+║ ➤matrix <text>
+║ ➤light <text>
+║ ➤neon <text>
+║ ➤devil <text>
+║ ➤purple <text>
+║ ➤thunder <text>
+║ ➤leaves <text>
+║ ➤1917 <text>
+║ ➤arena <text>
+║ ➤hacker <text>
+║ ➤sand <text>
+║ ➤blackpink <text>
+║ ➤glitch <text>
+║ ➤fire <text>
 ╚═══════════════════╝
 
 ╔═══════════════════╗
-📥 *Downloader*:
-║ ➤ .play <song_name>
-║ ➤ .song <song_name>
-║ ➤ .instagram <link>
-║ ➤ .facebook <link>
-║ ➤ .tiktok <link>
-║ ➤ .video <song name>
-║ ➤ .ytmp4 <Link>
+   *DOWNLODERS*:
+║ ➤play <song_name>
+║ ➤song <song_name>
+║ ➤instagram <link>
+║ ➤facebook <link>
+║ ➤tiktok <link>
+║ ➤video <song name>
+║ ➤ytmp4 <Link>
 ╚═══════════════════╝
 
 ╔═══════════════════╗
-💻 *Github Commands:*
-║ ➤ .git
-║ ➤ .github
-║ ➤ .sc
-║ ➤ .script
-║ ➤ .repo
+  *GITHUB COMMANDERS:*
+║ ➤git
+║ ➤github
+║ ➤sc
+║ ➤script
+║ ➤repo
 ╚═══════════════════╝
 
 Join our channel for updates:`;
@@ -171,8 +171,8 @@ Join our channel for updates:`;
                     forwardingScore: 1,
                     isForwarded: true,
                     forwardedNewsletterMessageInfo: {
-                        newsletterJid: '120363161513685998@newsletter',
-                        newsletterName: 'KnightBot MD',
+                        newsletterJid: '120363398106360290@newsletter',
+                        newsletterName: 'BWB XMD',
                         serverMessageId: -1
                     }
                 }
@@ -185,8 +185,8 @@ Join our channel for updates:`;
                     forwardingScore: 1,
                     isForwarded: true,
                     forwardedNewsletterMessageInfo: {
-                        newsletterJid: '120363161513685998@newsletter',
-                        newsletterName: 'KnightBot MD by Mr Unique Hacker',
+                        newsletterJid: '120363398106360290@newsletter',
+                        newsletterName: 'BWB XMD by Princetech',
                         serverMessageId: -1
                     } 
                 }
