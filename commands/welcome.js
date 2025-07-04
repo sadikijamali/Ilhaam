@@ -1,3 +1,4 @@
+
 const { handleWelcome } = require('../lib/welcome');
 
 async function welcomeCommand(sock, chatId, message, match) {
