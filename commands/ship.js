@@ -1,3 +1,4 @@
+
 async function shipCommand(sock, chatId, msg, groupMetadata) {
     try {
         // Get all participants from the group
