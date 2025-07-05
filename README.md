@@ -25,9 +25,7 @@
 <a href='https://dashboard.render.com/~' target="_blank"><img alt='Render' src='https://img.shields.io/badge/-Render Deploy-red?style=for-the-badge&logo=replit&logoColor=white'/< width=150 height=28/p></a
 ---
 
-
-
-  ### BOT HOSING
+### BOT HOSTING 
 
 <div align="center">
 <a href='https://.com/~' target="_blank"><img alt='Replit' src='https://img.shields.io/badge/-Replit Deploy-blue?style=for-the-badge&logo=discord&logoColor=white'/< width=150 height=28/p></a
@@ -38,7 +36,7 @@
 
 <div align="center">
 <a href='https://dashboard.katabump.com/auth/login#d6b7d6https://dashboard.katabump.com/~' target="_blank"><img alt='Replit' src='https://img.shields.io/badge/-katabump Deploy-green?style=for-the-badge&logo=katabump&logoColor=white'/< width=150 height=28/p></a> 
----
+
 
 ### REPLIT FREE
 
