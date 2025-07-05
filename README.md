@@ -75,12 +75,6 @@ Welcome to kingdom md a Whatsapp bot created by kingdom md , now we're safe use 
 
 <br>
 
-##  ¸ *EDIT THIS FILE ONLY*
-<div align="center">
-  <img src="https://files.catbox.moe/b1ejcg.png" alt="SMASH-V1 Banner" width="100%" />
-</div>
-
-<br>
 
 ---
 ## 😊 DEPLOY YOUR BOT FREE NOW 💪
