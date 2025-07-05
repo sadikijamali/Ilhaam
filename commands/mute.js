@@ -1,3 +1,4 @@
+
 const isAdmin = require('../lib/isAdmin');
 
 async function muteCommand(sock, chatId, senderId, durationInMinutes) {
