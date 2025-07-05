@@ -10,13 +10,13 @@
 
 *STEPS TO DEPLOY FREE BWB XMD*
 
-### Step 1: Fork the Repository
+# Step 1: Fork the Repository
 
-Click the button below to fork the Knight Bot repository to your GitHub account:
+Click the button below to fork the Bwb Xmd repository to your GitHub account:
 
 <div align="center">
-  <a href="https://github.com/mruniquehacker/Knightbot-MD/fork">
-    <img src="https://img.shields.io/badge/Fork-Repository-blue?style=for-the-badge" alt="Fork the repository"/>
+  <a href="https://github.com/Princetech-bwb/BWB-XMD-/fork">
+    <img src="https://img.shields.io/badge/Fork-Repository-red?style=for-the-badge" github="Fork the repository"/>
   </a>
 </div>
 
