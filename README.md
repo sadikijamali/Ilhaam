@@ -29,7 +29,7 @@
 
 ##  ¸ *EDIT THIS FILE ONLY*
 <div align="center">
-  <img src="/https://files.catbox.moe/b1ejcg.png" alt="SMASH-V1 Banner" width="100%" />
+  <img src="https://files.catbox.moe/b1ejcg.png" alt="SMASH-V1 Banner" width="100%" />
 </div>
 
 <br>
