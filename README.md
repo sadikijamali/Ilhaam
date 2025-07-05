@@ -8,9 +8,7 @@
 
 <a><img src='https://files.catbox.moe/y6jby4.jpg'/></a>
 
-### 1️⃣ Fork the Repo  
-[![Fork Repo](https://img.shields.io/badge/Fork-Repo-222222?style=for-the-badge&logo=github)](https://github.com/Mrhanstz/HANS-XMD_V3/fork)
-
+### `1 FORK THE REPO`  
 
 <div align="center">
   <a href="https://github.com/Princetech-bwb/BWB-XMD-/fork">
