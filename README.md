@@ -40,5 +40,5 @@
 ## RENDER FREE
 
 <div align="center">
-<a href='https://render.com/~' target="_blank"><img alt='Render' src='https://img.shields.io/badge/-Render Deploy-black?style=for-the-badge&logo=render&logoColor=white'/< width=150 height=28/p></a> 
+<a href='https://dashboard.render.com/~' target="_blank"><img alt='Render' src='https://img.shields.io/badge/-Render Deploy-black?style=for-the-badge&logo=render&logoColor=white'/< width=150 height=28/p></a> 
 
