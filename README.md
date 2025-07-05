@@ -55,7 +55,7 @@ Welcome to kingdom md a Whatsapp bot created by kingdom md , now we're safe use 
   
 --- 
 
-<a><img src='https://files.catbox.moe/0kwukb.jpg'/></a>
+<a><img src=''/></a>
 
 ### 1.`FORK THE REPO`  
 
