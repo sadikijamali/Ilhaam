@@ -4,50 +4,43 @@ const path = require('path');
 
 async function helpCommand(sock, chatId, message) {
     const helpMessage = `
-╔═══════════════════╗
-   *🤖 ${settings.botName || 'BWB-XMD'}*  
-   Version: *${settings.version || '2.0.5'}*
-   by ${settings.botOwner || 'PRINCETECH'}
-   YT : ${global.ytch}
 
+   *BOT NAME: ${settings.botName || 'BWB-XMD'}*  
+   VERSION: *${settings.version || '2.0.5'}*
+   OWNER: ${settings.botOwner || 'PRINCETECH'}
+   
+    ━━━━`GENERAL COMMANDERS` ━━━━━
+ ➤help or .menu
+ ➤ping
+ ➤alive
+ ➤tts <text>
+ ➤owner
+ ➤joke
+ ➤quote
+ ➤fact
+ ➤weather <city>
+ ➤news
+ ➤attp <text>
+ ➤lyrics <song_title>
+ ➤8ball <question>
+ ➤groupinfo
+ ➤staff or .admins 
+ ➤vv
+ ➤trt <text> <lang>
+ ➤ss <link>
+ ➤jid
 
-*ALL COMMANDERS:*
-
-╔═══════════════════╗
-   GENERAL COMMANDERS*:
-║ ➤help or .menu
-║ ➤ping
-║ ➤alive
-║ ➤tts <text>
-║ ➤owner
-║ ➤joke
-║ ➤quote
-║ ➤fact
-║ ➤weather <city>
-║ ➤news
-║ ➤attp <text>
-║ ➤lyrics <song_title>
-║ ➤8ball <question>
-║ ➤groupinfo
-║ ➤staff or .admins 
-║ ➤vv
-║ ➤trt <text> <lang>
-║ ➤ss <link>
-║ ➤jid
-
-
-╔═══════════════════╗
- *ADMIN COMMANDERS*:
-║ ➤ban @user
-║ ➤promote @user
-║ ➤demote @user
-║ ➤mute <minutes>
-║ ➤unmute
-║ ➤delete or .del
-║ ➤kick @user
-║ ➤warnings @user
-║ ➤warn @user
-║ ➤antilink
+     ━━━*ADMIN COMMANDERS*:━━━
+ ➤ban @user
+ ➤promote @user
+ ➤demote @user
+ ➤mute <minutes>
+ ➤unmute
+ ➤delete or .del
+ ➤kick @user
+ ➤warnings @user
+ ➤warn @user
+ ➤antilink
 ║ ➤antibadword
 ║ ➤clear
 ║ ➤tag <message>
