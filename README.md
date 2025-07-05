@@ -9,3 +9,15 @@
 <a><img src='https://files.catbox.moe/y6jby4.jpg'/></a>
 
 *STEPS TO DEPLOY FREE BWB XMD*
+
+### Step 1: Fork the Repository
+
+Click the button below to fork the Knight Bot repository to your GitHub account:
+
+<div align="center">
+  <a href="https://github.com/mruniquehacker/Knightbot-MD/fork">
+    <img src="https://img.shields.io/badge/Fork-Repository-blue?style=for-the-badge" alt="Fork the repository"/>
+  </a>
+</div>
+
+---
