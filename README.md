@@ -2,11 +2,17 @@
 
 Welcome to kingdom md a Whatsapp bot created by kingdom md , now we're safe use kingdom bot is safe and better ✅👑</h1>
 
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=80&pause=1000&color=87CEEB&center=true&vCenter=true&width=1000&height=200&lines=KINGDOM-MD;UPDATION+2025;BY+KINGDOM" alt="Typing SVG" />
+  </a>
+</p>
+
 <div align="center">
   <img src="https://files.catbox.moe/0kwukb.jpg" width="400" style="border-radius:10px">
 </div>
 
-##  Quick Access
+##  QUICK ACCESS
 
 <table align="center" cellpadding="10" style="border-radius:15px;background:#1a1a1a;border:none">
   <tr>
