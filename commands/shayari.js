@@ -1,3 +1,4 @@
+
 const fetch = require('node-fetch');
 
 async function shayariCommand(sock, chatId, message) {
