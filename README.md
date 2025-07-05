@@ -23,3 +23,5 @@
 #### **RENDER FREE**  
 [![Render Hosting](https://img.shields.io/badge/Render-free-black?style=for-the-badge&logo=render)](https://dashboard.render.com)  
 
+### BOT HOSTING FREE
+
