@@ -23,7 +23,7 @@
 ## BOT HOSTING 
 
 <div align="center">
-<a href='https://replit.com/~' target="_blank"><img alt='discord' src='https://img.shields.io/badge/-discord Deploy-blue?style=for-the-badge&logo=discord&logoColor=white'/< width=150 height=28/p></a> 
+<a href='https://discord.com/~' target="_blank"><img alt='discord' src='https://img.shields.io/badge/-discord Deploy-blue?style=for-the-badge&logo=discord&logoColor=white'/< width=150 height=28/p></a> 
 
 
 ## KATABUMP FREE
