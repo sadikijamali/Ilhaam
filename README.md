@@ -25,6 +25,8 @@
 <a href='https://dashboard.render.com/~' target="_blank"><img alt='Render' src='https://img.shields.io/badge/-Render Deploy-red?style=for-the-badge&logo=replit&logoColor=white'/< width=150 height=28/p></a
 ---
 
+
+
 ### BOT HOSTING 
 
 <div align="center">
