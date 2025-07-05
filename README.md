@@ -1,3 +1,52 @@
+# KINGDOM-MD 👑
+
+Welcome to kingdom md a Whatsapp bot created by kingdom md , now we're safe use kingdom bot is safe and better ✅👑</h1>
+
+<div align="center">
+  <img src="https://files.catbox.moe/0kwukb.jpg" width="400" style="border-radius:10px">
+</div>
+
+##  Quick Access
+
+<table align="center" cellpadding="10" style="border-radius:15px;background:#1a1a1a;border:none">
+  <tr>
+    <td align="center" style="border:none">
+      <a href="https://keithpairing.zone.id/">
+        <img src="https://img.shields.io/badge/Pair_Session-white?style=for-the-badge&logo=link&logoColor=black" width="200">
+      </a>
+    </td>
+    <td align="center" style="border:none">
+      <a href="https://www.youtube.com/@hazardbayana4999">
+        <img src="https://img.shields.io/badge/Video_Tutorial-FF0000?style=for-the-badge&logo=youtube&logoColor=white" width="200">
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" style="border:none">
+      <a href="https://chat.whatsapp.com/FkBWBV2dsfFBoBSC61Sb7i?mode=r_c">
+        <img src="https://img.shields.io/badge/VIEW_GROUP-181717?style=for-the-badge&logo=link&logoColor=white" width="200">
+      </a>
+    </td>
+    <td align="center" style="border:none">
+      <a href="https://dashboard.heroku.com/new?button-url=https://github.com/kingdommd/kingdom-md- MD&template=https://github.com/kingdommd/kingdom-md.git">
+        <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" width="180">
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" style="border:none">
+      <a href="https://wa.me/message/B67R2CEOSVXJK1">
+        <img src="https://img.shields.io/badge/Contact_Us-0088cc?style=for-the-badge&logo=telegram&logoColor=white" width="200">
+      </a>
+    </td>
+    <td align="center" style="border:none">
+      <a href="https://whatsapp.com/channel/0029Vb6CC2dB4hdPp1CrYv0f">
+        <img src="https://img.shields.io/badge/VIEW_CHANNEL-000000?style=for-the-badge&logo=vercel&logoColor=white" width="200">
+      </a>
+    </td>
+  </tr>
+</table>
+
 <p align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=80&pause=1000&color=87CEEB&center=true&vCenter=true&width=1000&height=200&lines=KINGDOM-MD;UPDATION+2025;BY+KINGDOM" alt="Typing SVG" />
