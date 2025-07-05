@@ -1,3 +1,4 @@
+
 const { isAdmin } = require('../lib/isAdmin');
 
 // Function to handle manual promotions via command
