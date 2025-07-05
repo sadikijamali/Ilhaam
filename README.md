@@ -19,7 +19,7 @@
 ---
 ## 😊 DEPLOY YOUR BOT FREE NOW 💪
 
-### BOT HOSTING 
+   ### BOT HOSTING 
 
 <div align="center">
 <a href='https://.com/~' target="_blank"><img alt='Replit' src='https://img.shields.io/badge/-Replit Deploy-blue?style=for-the-badge&logo=discord&logoColor=white'/< width=150 height=28/p></a
