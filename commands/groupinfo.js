@@ -1,3 +1,4 @@
+
 async function groupInfoCommand(sock, chatId, msg) {
     try {
         // Get group metadata
