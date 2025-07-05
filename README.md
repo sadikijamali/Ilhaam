@@ -31,9 +31,13 @@
 
 ### KATABUMP FREE/PANEL
 
-<div align="center">
+<div align="left">
 <a href="https://dashboard.katabump.com/auth/login#d6b7d6" target="_blank">
   <img src="https://img.shields.io/badge/Katabump-D6B7D6?style=for-the-badge&logo=server&logoColor=blue" alt="Katabump"/>
 </a>
 </div>
 
+### REPLIT FREE
+
+<p align="left">
+<a href='https://replit.com/~' target="_blank"><img alt='Replit' src='https://img.shields.io/badge/-Replit Deploy-red?style=for-the-badge&logo=replit&logoColor=white'/< width=150 height=28/p></a> 
