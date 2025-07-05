@@ -173,8 +173,8 @@ Join our channel for updates:`;
                     forwardingScore: 1,
                     isForwarded: true,
                     forwardedNewsletterMessageInfo: {
-                        newsletterJid: '120363161513685998@newsletter',
-                        newsletterName: 'KnightBot MD by Mr Unique Hacker',
+                        newsletterJid: '120363398106360290@newsletter',
+                        newsletterName: 'BWB XMD',
                         serverMessageId: -1
                     } 
                 }
