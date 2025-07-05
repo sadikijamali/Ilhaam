@@ -1,3 +1,4 @@
+
 const fetch = require('node-fetch');
 
 async function memeCommand(sock, chatId, message) {
