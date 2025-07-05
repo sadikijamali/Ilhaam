@@ -17,4 +17,4 @@
 </div>
 
 ---
-2.### 🌐 DEPLOY YOUR BOT NOW FREE 💪
+## 😊 DEPLOY YOUR BOT FREE NOW 💪
