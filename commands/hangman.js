@@ -1,3 +1,4 @@
+
 const fs = require('fs');
 
 const words = ['javascript', 'bot', 'hangman', 'whatsapp', 'nodejs'];
