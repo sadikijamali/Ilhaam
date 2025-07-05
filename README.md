@@ -8,4 +8,4 @@
 
 <a><img src='https://files.catbox.moe/y6jby4.jpg'/></a>
 
-**STEPS TO DEPLOY FREE BWB XMD*
+*STEPS TO DEPLOY FREE BWB XMD*
