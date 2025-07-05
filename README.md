@@ -21,15 +21,16 @@
 
 
 #### RENDER FREE  
-[![Render Hosting](https://img.shields.io/badge/Render-free-black?style=for-the-badge&logo=render)](https://dashboard.render.com)  
+<div align="center">
+<a 
+(https://img.shields.io/badge/Render-free-black?style=for-the-badge&logo=render)](https://dashboard.render.com)  
 
 ### BOT HOSTING FREE
 
 
 
 
-
-  ### KATABUMP FREE
+   ### KATABUMP FREE
 
 <div align="center">
 <a href='https://dashboard.katabump.com/auth/login#d6b7d6https://dashboard.katabump.com/~' target="_blank"><img alt='Replit' src='https://img.shields.io/badge/-katabump Deploy-green?style=for-the-badge&logo=replit&logoColor=white'/< width=150 height=28/p></a> 
