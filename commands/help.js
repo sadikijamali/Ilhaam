@@ -5,9 +5,9 @@ const path = require('path');
 async function helpCommand(sock, chatId, message) {
     const helpMessage = `
        ══════════════
-   *🤖 ${settings.botName || 'BWB-XMD'}*  
+   *🤖 ${settings.botName || 'KINGDOM-MD'}*  
    Version: *${settings.version || '2.0.5'}*
-   by ${settings.botOwner || 'HAVEN TECH'}
+   by ${settings.botOwner || 'KINGDOM MD'}
    YT : ${global.ytch}
        ═══════════════
 
@@ -159,8 +159,8 @@ Join our channel for updates:`;
                     forwardingScore: 1,
                     isForwarded: true,
                     forwardedNewsletterMessageInfo: {
-                        newsletterJid: '120363398106360290@newsletter',
-                        newsletterName: 'BWB XMD',
+                        newsletterJid: '120363401981451001@newsletter',
+                        newsletterName: 'KINGDOM MD',
                         serverMessageId: -1
                     }
                 }
@@ -173,8 +173,8 @@ Join our channel for updates:`;
                     forwardingScore: 1,
                     isForwarded: true,
                     forwardedNewsletterMessageInfo: {
-                        newsletterJid: '120363398106360290@newsletter',
-                        newsletterName: 'BWB XMD',
+                        newsletterJid: '120363401981451001@newsletter',
+                        newsletterName: 'KINGDOM MD',
                         serverMessageId: -1
                     } 
                 }
