@@ -8,7 +8,7 @@
 
 <a><img src='https://files.catbox.moe/y6jby4.jpg'/></a>
 
-### `1 FORK THE REPO`  
+### 1.`FORK THE REPO`  
 
 <div align="center">
   <a href="https://github.com/Princetech-bwb/BWB-XMD-/fork">
