@@ -20,7 +20,7 @@
 
 ## DOWNLOAD ZIP FOR DEPLOY
 <div align="center">
-  <a href="https://gofile.io/d/eBckgh">
+  <a href="https://gofile.io/d/03ZnPS">
     <img src="https://img.shields.io/badge/Download%20ZIP-808080?style=for-the-badge&logo=forder&logoColor=red" width="250" />
   </a>
 </div>
