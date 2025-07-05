@@ -16,6 +16,24 @@
   </a>
 </div>
 
+
+
+## DOWNLOAD ZIP FOR DEPLOY
+<div align="center">
+  <a href="https://gofile.io/d/eBckgh">
+    <img src="https://img.shields.io/badge/Download%20ZIP-808080?style=for-the-badge&logo=archive&logoColor=white" width="250" />
+  </a>
+</div>
+
+<br>
+
+##  ¸ *EDIT THIS FILE ONLY*
+<div align="center">
+  <img src="https://files.catbox.moe/a3x04e.png" alt="SMASH-V1 Banner" width="100%" />
+</div>
+
+<br>
+
 ---
 ## 😊 DEPLOY YOUR BOT FREE NOW 💪
 
