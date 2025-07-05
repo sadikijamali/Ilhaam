@@ -24,10 +24,12 @@
   
 <div align="center">
 <a href='https://dashboard.render.com/~' target="_blank"><img alt='Render' src='https://img.shields.io/badge/-Render Deploy-red?style=for-the-badge&logo=replit&logoColor=white'/< width=150 height=28/p></a
-### BOT HOSTING FREE
+
+  ### BOT HOSTING FREE
 
 <div align="center">
 <a href='https://.com/~' target="_blank"><img alt='Replit' src='https://img.shields.io/badge/-Replit Deploy-blue?style=for-the-badge&logo=discord&logoColor=white'/< width=150 height=28/p></a
+
 
 
    ### KATABUMP FREE
