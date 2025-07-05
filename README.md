@@ -20,11 +20,11 @@
 ## 😊 DEPLOY YOUR BOT FREE NOW 💪
 
   
-## DISCORD FREE
+## BOT HOSTING 
 
 <div align="center">
-<a href='https://replit.com/~' target="_blank"><img alt='Replit' src='https://img.shields.io/badge/-Replit Deploy-red?style=for-the-badge&logo=replit&logoColor=white'/< width=150 height=28/p></a> 
----
+<a href='https://replit.com/~' target="_blank"><img alt='discord' src='https://img.shields.io/badge/-discord Deploy-red?style=for-the-badge&logo=discord&logoColor=white'/< width=150 height=28/p></a> 
+
 
 ## KATABUMP FREE
 
