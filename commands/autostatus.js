@@ -6,8 +6,8 @@ const channelInfo = {
         forwardingScore: 1,
         isForwarded: true,
         forwardedNewsletterMessageInfo: {
-            newsletterJid: '120363398106360290@newsletter',
-            newsletterName: 'BWB XMD',
+            newsletterJid: '120363401981451001@newsletter',
+            newsletterName: 'KINGDOM MD',
             serverMessageId: -1
         }
     }
